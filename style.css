@@ -38,7 +38,7 @@ body{
     height: 100%;
     resize: none;
     padding: 0.6rem;
-    font-size:2.5rem;
+    font-size:1.5rem;
 }
 .note textarea:focus{
     border: 0;
